@@ -1,12 +1,6 @@
 # Clone Spotify
 Projeto de um Clone da interface do site Spotify, criado durante meus aprendizados de Bootstrap.
 
-
-# Finans
-
-
-
-
 # Página Inicial com caurosel
 
 ![spotify1](https://github.com/Hayghlander/CloneSpotify/assets/113555075/62794943-08c9-4610-906d-3e37036117dc)
